@@ -20,13 +20,13 @@ const Projects = () => {
               link="https://nonkazi.github.io/dronoticz/"
             />
             <ProjectCard
-              title="Project "
-              description="Description of Project ."
-              link="https://github.com/yourusername/project2"
+              title="Finquiz"
+              description="Description of Project."
+              link="https://finquiz-yo4h.vercel.app/"
             />
             <ProjectCard
               title="The Quiz"
-              description="Description of Project 3."
+              description="Description of Project."
               link="https://quizassignment5.vercel.app/"
             />
             
