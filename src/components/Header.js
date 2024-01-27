@@ -11,9 +11,8 @@ const Header = ({ scrollToAbout }) => {
           <div className="introduction">
             <h1>Hi There I'm Nonkazimulo</h1>
             <h3>I am a Software Developer...</h3>
-            <p>"If you’re short on time or have a very complex work history,
-               paying for a resume-writing service like can do wonders.
-               ."</p>
+            <p>I am an enthusiastic, self-motivated, reliable, responsible and hardworking working person. 
+      I have a great interest in Information Technology field...</p>
                
                
                <button>
