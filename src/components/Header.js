@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Styles.css';
 import myimage from './myimage.jpeg';
-import Icons from './Icons';
 
 const Header = ({ scrollToAbout }) => {
   return (
@@ -23,7 +22,7 @@ const Header = ({ scrollToAbout }) => {
           </div>
           <div className="profile-picture">
           <img src={myimage} alt="Your Profile" />
-           <Icons />
+           
           </div>
           
         </div>
